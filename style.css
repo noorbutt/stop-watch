@@ -1,0 +1,81 @@
+body{
+    
+    background-image:url('./background.jpg') ;
+    background-position: center;
+    background-size: cover;
+       background-repeat: no-repeat;
+       height: 600px;
+  
+}
+
+
+
+h1{
+    color: white;
+     display: inline-block;   
+   font-weight: 300;
+   width: 100px;
+  margin-top: 10px;
+  background-color: #82B1FF ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border-radius: 10px;
+}
+ 
+
+
+.maincontainer{
+    text-align: center;
+   
+
+}
+
+p{
+    color: white;
+  font-weight: 250;
+  font-size: 35px;
+    margin-bottom: 100px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ text-align: center;
+ padding-top: 70px;
+
+}
+
+.clearbtn :hover{
+  background-color:  #1E88E5  ;
+}
+
+.clearbtn{
+   
+    border-radius: 50px;
+    margin-top: 10px;
+   height: 30px;
+ 
+  
+}
+
+
+
+.para{
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+    
+}
+
+
+
+.matter{
+    color: cadetblue;
+}
+
+
+
+
+
+
+
+
+
+
+
